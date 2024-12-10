@@ -1,0 +1,17 @@
+{
+    "home": "घर",
+    "task": "कार्य",
+    "enter_task_content": "कार्य विवरण दर्ज करें",
+    "update": "अपडेट",
+    "comments": "टिप्पणियाँ",
+    "type_comment": "टिप्पणी दर्ज करें...",
+    "kanban_board": "कानबन बोर्ड",
+    "add_task": "कार्य जोड़ें",
+    "completed_tasks": "पूर्ण कार्य",
+    "completed_at": "तारीख को पूरा करें",
+    "change_theme": "थीम बदलें",
+    "language": "भाषा",
+    "no_tasks_loaded": "कोई कार्य लोड नहीं हुआ",
+    "no_completed_tasks": "कोई पूर्ण कार्य नहीं",
+    "settings": "सेटिंग्स"
+}

@@ -1,0 +1,17 @@
+{
+    "home": "Home",
+    "task": "Task",
+    "enter_task_content": "Enter task content",
+    "update": "Update",
+    "comments": "Comments",
+    "type_comment": "Type comment...",
+    "kanban_board": "Kanban Board",
+    "add_task": "Add task",
+    "completed_at": "Completed at",
+    "change_theme": "Change theme",
+    "completed_tasks": "Completed tasks",
+    "language": "Language",
+    "no_tasks_loaded": "No tasks loaded",
+    "no_completed_tasks": "No completed tasks",
+    "settings": "Settings"
+}
