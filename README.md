@@ -19,6 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 <h4 align="left">Find latest apk in releases section or <a href="https://github.com/sharath-b-naik/kamban-board/releases/">here</a></h4>
 
 <h2 align="left">Video Demo</h2>
-<video width="600" controls>
-    <source src="video.mp4" type="video/mp4">
-</video>
+<a href="https://github.com/sharath-b-naik/kamban-board/blob/main/video.mp4" target="_blank">Click here to watch the video</a>
