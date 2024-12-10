@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <h2 align="left">Video Demo</h2>
 <video width="600" controls>
-    <source src="[video.mp4](https://github.com/sharath-b-naik/kamban-board/blob/main/video.mp4)" type="video/mp4">
+    <source src="https://github.com/sharath-b-naik/kamban-board/blob/main/video.mp4" type="video/mp4">
 </video>
